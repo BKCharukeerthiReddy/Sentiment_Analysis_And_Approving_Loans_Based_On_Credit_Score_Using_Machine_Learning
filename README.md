@@ -40,10 +40,10 @@ The interactive dashboard provides visual analytics for both credit profiles and
 ***
 
 ### How to Run
--Open cmd
--change directory to your project location(cd 'path')
--type streamlit run senti_app.py
--feed the data set in the dashboard
+ Open cmd
+-> change directory to your project location(cd 'path')
+-> type streamlit run senti_app.py
+-> feed the data set in the dashboard
 
 
 ***
